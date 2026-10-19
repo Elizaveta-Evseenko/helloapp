@@ -4,6 +4,6 @@ public class Class1
 {
 	public greetWhite()
 	{
-		Console.WriteLine("hello white");
+		Console.WriteLine("hello everyone");
 	}
 }
